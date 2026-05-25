@@ -1,7 +1,5 @@
 # JOHN GILSON LIBERTE
 
-**JOHN GILSON**
-
 |JOHN GIL|LIBERTE|
 |------|--------|
 ### Favorite Foods
@@ -9,10 +7,6 @@
 - SINIGANG NA BABOY
 + ADOBONG MANOK
 * crispy king
-
-<u> JOHN GILSON </u>
-
-> *"JOHN GIL SONG LIBERTE"*
 
 ## About Me
 
